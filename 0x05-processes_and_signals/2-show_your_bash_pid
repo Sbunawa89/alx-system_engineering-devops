@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# Displaying line of current running PID
+# Check disable=SC2009 by Shell
+
+ps -aux | grep bash 
